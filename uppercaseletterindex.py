@@ -1,4 +1,4 @@
-# verilen kelimedeki büyük harflerin index numarasını bir liste ile veren kod denemesi :) 
+# verilen kelimedeki bÃ¼yÃ¼k harflerin index numarasÄ±nÄ± bir liste ile veren kod denemesi :) 
 
 def buyukbul(kelime):
     liste = list()
